@@ -1,6 +1,6 @@
-# Human–Robot Interaction Using Machine Learning
+# Emotion and Gesture Recognition
 
-**Course project — Machine Learning for Robotics**
+**Course project — Fundamentals of Computer Vision**
 
 
 
@@ -16,11 +16,8 @@ A comparative analysis of classical ML algorithms applied to facial-emotion and 
 
 | Name | Roll |
 |---|---|
-| Filza Salman — Group Leader | 22K-5011 |
-| Yasal Khan | 22K-6004 |
-| Yasir Memon | 22K-5090 |
-| Yousha Mehdi | 22K-6007 |
-| Taha Farooque | 22K-5020 |
+| Aazar Arnold | 22K-4277 |
+| Muhammad Hamza Hussain | 22K-4317 |
 
 ## What it does
 

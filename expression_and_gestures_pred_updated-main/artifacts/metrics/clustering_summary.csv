@@ -1,0 +1,2 @@
+model,silhouette,davies_bouldin,adjusted_rand_index,train_time_s
+kmeans,0.0191,4.2037,0.0104,0.52

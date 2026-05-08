@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.99975,
+  "precision_macro": 0.9997506234413965,
+  "recall_macro": 0.99975,
+  "f1_macro": 0.9997499996093744,
+  "f1_weighted": 0.9997499996093743,
+  "model": "gesture_knn",
+  "train_time_s": 0.0012177000171504915,
+  "predict_time_s": 2.613280899997335
+}

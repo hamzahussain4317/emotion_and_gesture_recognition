@@ -11,13 +11,7 @@ __pycache__/
 .vscode/
 .idea/
 
-artifacts/cache/
-artifacts/features/
-artifacts/models/
-artifacts/figures/
-artifacts/metrics/
 
-*.joblib
 *.npy
 *.npz
 *.task
