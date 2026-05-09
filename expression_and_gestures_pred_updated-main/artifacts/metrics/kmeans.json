@@ -1,0 +1,8 @@
+{
+  "model": "kmeans",
+  "n_clusters": 7,
+  "silhouette": 0.019081363454461098,
+  "davies_bouldin": 4.20365796959434,
+  "adjusted_rand_index": 0.010423402280008674,
+  "train_time_s": 0.5249848999956157
+}

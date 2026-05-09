@@ -1,0 +1,10 @@
+{
+  "model": "q_learning",
+  "train_time_s": 0.2697581000102218,
+  "episodes": 2000,
+  "final_avg_reward": 17.669998168945312,
+  "first_avg_reward": -20.571001052856445,
+  "max_reward": 41.5,
+  "alpha": 0.1,
+  "gamma": 0.95
+}

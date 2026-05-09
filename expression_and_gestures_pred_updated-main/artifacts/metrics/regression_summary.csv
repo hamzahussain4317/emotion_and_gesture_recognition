@@ -1,0 +1,3 @@
+model,rmse,mae,r2,train_time_s
+linear_regression,0.5819,0.4988,0.2105,0.04
+polynomial_regression,0.5622,0.4523,0.2629,1.81
